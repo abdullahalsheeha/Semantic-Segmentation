@@ -1,6 +1,6 @@
 # Semantic-Segmentation
 
-The goal of projrct is to use semantic segmentation to classify each pixel of the car in the image and remove studio background.
+The goal of projrct is to use semantic segmentation to classify each pixel of the car in the image.
 
 ### Data Set Summary & Exploration
 
