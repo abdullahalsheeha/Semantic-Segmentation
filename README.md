@@ -27,7 +27,8 @@ My final model consisted of the following layers:
 ![model](https://user-images.githubusercontent.com/61292363/109576618-2aea8e80-7b05-11eb-8e73-d44b2467fccf.png)
 
 
-#### 3. Train/validation lose curves
+
+#### 3. Train/validation loss curves
 
 ![download](https://user-images.githubusercontent.com/61292363/109576787-7bfa8280-7b05-11eb-8d45-143a60b56326.png)
 
